@@ -1,9 +1,9 @@
 import { createApp } from 'vue'
 import { createRouter, createWebHistory } from 'vue-router';
 import App from './App.vue'
-import Home from "@/components/Home";
-import Login from "@/components/Login";
-import Register from "@/components/Register";
+import Home from './components/Home';
+import Login from './components/Login';
+import Register from './components/Register';
 import Particles from 'particles.vue3';
 
 const routes = [

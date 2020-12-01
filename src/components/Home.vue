@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import HelloWorld from "@/components/HelloWorld";
+import HelloWorld from "./HelloWorld";
 
 export default {
   name: "Home",
