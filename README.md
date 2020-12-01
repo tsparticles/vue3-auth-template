@@ -1,24 +1,31 @@
-# vue3-auth-template
+# tsParticles VueJS Authentication Template
 
-## Project setup
-```
-yarn install
-```
+tsParticles Simple Auth HTML Template for VueJS Web Sites/Applications
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Login Page Preview
+[![login](https://raw.githubusercontent.com/tsparticles/vue3-auth-template/master/__screenshots/login.png)](https://tsparticles.github.io/vue3-auth-template/#/login)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+See working preview [here](https://tsparticles.github.io/vue3-auth-template/#/login)
 
-### Lints and fixes files
-```
-yarn lint
-```
+## Register Page Preview
+[![login](https://raw.githubusercontent.com/tsparticles/vue3-auth-template/master/__screenshots/register.png)](https://tsparticles.github.io/vue3-auth-template/#/register)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See working preview [here](https://tsparticles.github.io/vue3-auth-template/#/register)
+
+## What is tsParticles
+
+[tsParticles](https://github.com/matteobruni/tsparticles) is a lightweight library for easily creating particles animations in your websites or web applications.
+
+The [tsParticles](https://github.com/matteobruni/tsparticles) library is ready to be used in standard JavaScript, React, Vue.js, Angular, Svelte, jQuery, Preact, Inferno.
+
+### VueJS tsParticles
+
+The VueJS official [tsParticles](https://github.com/matteobruni/tsparticles) library is `particles.vue`.
+
+You read more about `particles.vue` [here](https://github.com/matteobruni/tsparticles/blob/master/components/vue/README.md) 
+
+---
+
+Want to see more particles demos? [Checkout this collection](https://codepen.io/collection/DPOage)
+
+Want to see more templates or want to share yours? [Checkout this README](https://github.com/tsparticles/templates)
