@@ -3,12 +3,12 @@
 tsParticles Simple Auth HTML Template for VueJS Web Sites/Applications
 
 ## Login Page Preview
-[![login](https://raw.githubusercontent.com/tsparticles/vue3-auth-template/master/__screenshots/login.png)](https://tsparticles.github.io/vue3-auth-template/#/login)
+[![login](https://raw.githubusercontent.com/tsparticles/vue3-auth-template/main/__screenshots/login.png)](https://tsparticles.github.io/vue3-auth-template/#/login)
 
 See working preview [here](https://tsparticles.github.io/vue3-auth-template/#/login)
 
 ## Register Page Preview
-[![login](https://raw.githubusercontent.com/tsparticles/vue3-auth-template/master/__screenshots/register.png)](https://tsparticles.github.io/vue3-auth-template/#/register)
+[![login](https://raw.githubusercontent.com/tsparticles/vue3-auth-template/main/__screenshots/register.png)](https://tsparticles.github.io/vue3-auth-template/#/register)
 
 See working preview [here](https://tsparticles.github.io/vue3-auth-template/#/register)
 
