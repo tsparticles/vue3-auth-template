@@ -16,9 +16,9 @@
     "vue-router": "^4.0.0-rc.6"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.5.9",
-    "@vue/cli-plugin-eslint": "^4.5.9",
-    "@vue/cli-service": "^4.5.9",
+    "@vue/cli-plugin-babel": "^5.0.0",
+    "@vue/cli-plugin-eslint": "^5.0.0",
+    "@vue/cli-service": "^5.0.0",
     "@vue/compiler-sfc": "^3.0.3",
     "@babel/eslint-parser": "^7.11.0",
     "eslint": "^7.14.0",
