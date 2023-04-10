@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.0",
-    "particles.vue3": "^1.1.11",
+    "particles.vue3": "^2.0.0",
     "vue": "^3.0.3",
     "vue-router": "^4.0.0-rc.6"
   },
