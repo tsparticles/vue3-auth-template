@@ -2705,9 +2705,9 @@ core-js-compat@^3.25.1, core-js-compat@^3.8.3:
     browserslist "^4.21.5"
 
 core-js@^3.8.0, core-js@^3.8.3:
-  version "3.32.2"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.32.2.tgz#172fb5949ef468f93b4be7841af6ab1f21992db7"
-  integrity sha512-pxXSw1mYZPDGvTQqEc5vgIb83jGQKFGYWY76z4a7weZXUolw3G+OvpZqSRcfYOoOVUQJYEPsWeQK8pKEnUtWxQ==
+  version "3.50.0"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.50.0.tgz#a18646fcb0097650189b4504c803e887bcae4c0a"
+  integrity sha512-BRWgOLKkFeCgRudR6zrs8p9XJZcE14grzKMMssoYrk6krtuEZ7MTKPIY5RzOnqsEKIR9kst7wNzphttraT+Yqw==
 
 core-util-is@~1.0.0:
   version "1.0.2"
